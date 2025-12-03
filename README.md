@@ -23,7 +23,7 @@ Todo el entrenamiento se realiza mediante:
 Misma arquitectura, entrenada para aprender la función **XOR*:  
 <img width="208" height="136" alt="image" src="https://github.com/user-attachments/assets/fc869622-7124-4f74-aebc-26bedb35c993" />
 
-# 📌 **Ejercicio 2 — Clasificación Fashion-MNIST con TensorFlow**
+# **Ejercicio 2 — Clasificación Fashion-MNIST con TensorFlow**
 
 Este ejercicio implementa una red neuronal multicapa usando **TensorFlow/Keras** para clasificar prendas del dataset **Fashion-MNIST**.
 
