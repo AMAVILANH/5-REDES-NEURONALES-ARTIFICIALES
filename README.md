@@ -16,11 +16,13 @@ Todo el entrenamiento se realiza mediante:
 
 ### Archivos:
 - **`nand_network.ipynb`**  
-  Red neuronal con dos capas ocultas entrenada para aprender la compuerta **NAND**.
+  Red neuronal con dos capas ocultas entrenada para aprender la compuerta **NAND**:
+  
   <img width="208" height="142" alt="image" src="https://github.com/user-attachments/assets/1e69ba29-9956-4db8-b3df-264fca52ed0b" /> 
   
 - **`xor_network.ipnb`**  
-Misma arquitectura, entrenada para aprender la función **XOR*:  
+Misma arquitectura, entrenada para aprender la función **XOR*:
+
 <img width="208" height="136" alt="image" src="https://github.com/user-attachments/assets/fc869622-7124-4f74-aebc-26bedb35c993" />
 
 # **Ejercicio 2 — Clasificación Fashion-MNIST con TensorFlow**
