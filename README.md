@@ -1,6 +1,7 @@
 # Redes Neuronales – Modulo 5
-
-Este repositorio contiene la solución completa a los tres ejercicios finales del capítulo de Redes Neuronales Artificiales.  
+## Integrantes
+- Juan David Meza
+- Andres Mauricio Avilan
 
 # **Ejercicio 1 — Redes neuronales desde cero (NAND y XOR)**
 
